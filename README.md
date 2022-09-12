@@ -2,7 +2,7 @@
 
   <h4>
   <ul>👀 I’m interested in creating programs and websites. </ul>
-  <ul>🌱 I’m currently learning web devlopment on the odin project. </ul>
+  <ul>🌱 I’m currently learning web devlopment but planning for software enginnering </ul>
   <ul>📫 you can reach me at yaredyyehualashet@gmail.com or on discord WasHeWrong#7534 </ul>
   </h4>
 
