@@ -1,9 +1,9 @@
 <h1> 👋 Hi, I’m @Yaredyy </h1>
 
   <h4>
-  <ul>👀 I’m interested in creating programs and websites. </ul>
-  <ul>🌱 I’m currently learning web devlopment but planning for software engineering. </ul>
-  <ul>📫 you can reach me at yaredyyehualashet@gmail.com or on discord WasHeWrong#7534. </ul>
+  <ul>👀 I’m interested in creating programs, websites, and apps. </ul>
+  <ul>🌱 I’m going down java app devlopment lane but still going for software engineering. </ul>
+  <ul>📫 you can reach me at yaredyyehualashet@gmail.com or +1(347) 935-2598. </ul>
   </h4>
 
 <!---
